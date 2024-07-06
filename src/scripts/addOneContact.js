@@ -21,3 +21,5 @@ export const addOneContact = async () => {
 };
 
 addOneContact();
+
+// npm run add-one
